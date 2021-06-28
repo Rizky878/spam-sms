@@ -18,5 +18,6 @@ Spam-Sms
 ```bash
 > node spam.js
 ```
-
+## Special Thanks to
+* [`M Yusril`](https://github.com/shansekai)
 
