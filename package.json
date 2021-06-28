@@ -1,1 +1,17 @@
-[]
+{
+  "name": "Spam-Sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizky",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  }
+}
