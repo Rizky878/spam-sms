@@ -16,7 +16,7 @@ Spam-Sms
 
 ### Run
 ```bash
-> node index.js
+> node spam.js
 ```
 
 
